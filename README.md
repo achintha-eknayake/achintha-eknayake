@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello , I'm Achintha Ekanayake.<br>I'm undergraduate student of Computer Science<br>Currently building foundation in the field of Artificial Intelligence.<br>And hoping for great things to come :33
+Hello , I'm Achintha Ekanayake.<br>I'm undergraduate student of Computer Science<br>Currently building foundation in the field of Artificial Intelligence.<br>And hoping for great things to come ...
 
 
 ## 🌐 Socials:
